@@ -75,7 +75,7 @@ h1
  	margin: 20px 0px;
  	padding:5px;
   	width: 23%;
-  	height: 860px;
+  	height: 1200px;
  	background: #DCDCDC;
  	border-radius: 10px;
  	vertical-align: top; 
@@ -111,7 +111,6 @@ h1
 {
 border: 1PX solid black;
 width: 100%;
-
 float: left;
 z-index: 5000000;
 }
@@ -173,6 +172,7 @@ nav a:hover
 	margin-left: 1%;
 	padding-top: 10px;
 	width:70%;
+	height: 1200px;
 	margin-top: 20px;
 	background: #DCDCDC;
 	border:1PX solid #000000;
