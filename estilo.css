@@ -44,7 +44,7 @@ header
   	{
   	background: none;
   	padding: none;
-  	width: 98%;
+  	width: 90%;
   	margin-left: auto;
   	margin-right: auto;
   	text-align: center;
@@ -74,8 +74,8 @@ h1
 	display:inline-block;
  	margin: 20px 0px;
  	padding:5px;
-  	width: 23%;
-  	height: 1200px;
+  	width: 300px;
+  	height: 1300px;
  	background: #DCDCDC;
  	border-radius: 10px;
  	vertical-align: top; 
@@ -84,6 +84,7 @@ h1
 }
 .renav p 
 {
+	
 	line-height: ;
 	font-size: 16px;
 	text-align: center;
@@ -111,7 +112,9 @@ h1
 {
 border: 1PX solid black;
 width: 100%;
-float: left;
+float-left: auto;
+float-right:auto;
+
 z-index: 5000000;
 }
  
@@ -171,8 +174,8 @@ nav a:hover
 	text-align: center;
 	margin-left: 1%;
 	padding-top: 10px;
-	width:70%;
-	height: 1200px;
+	width:700px;
+	height: 1300px;
 	margin-top: 20px;
 	background: #DCDCDC;
 	border:1PX solid #000000;
@@ -186,7 +189,7 @@ nav a:hover
 .S1 
 	{
 	width: 90%;
-	height: 35%;
+	height: 28%;
 	margin: 5px 5px;
 	border-radius: 10px;
 	border:1PX solid #000000;
@@ -205,7 +208,7 @@ h2
 .S2
 	{
 	width: 70%;
-	height: 10%;
+	height: 300px;
 	border-radius: 10%;
 	}
 
