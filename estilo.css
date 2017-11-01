@@ -75,12 +75,22 @@ h1
  	margin: 20px 0px;
  	padding:5px;
   	width: 23%;
-  	height: 760px;
+  	height: 860px;
  	background: #DCDCDC;
  	border-radius: 10px;
  	vertical-align: top; 
  	position: static;
  	border: 1PX solid black;
+}
+.renav p 
+{
+	line-height: ;
+	font-size: 16px;
+	text-align: center;
+	font-family: arial;
+	width: 95%;
+	padding: 2%
+	font-weight: bold;
 }
 
 #menu 
